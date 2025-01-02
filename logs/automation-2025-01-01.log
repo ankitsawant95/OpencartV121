@@ -1,0 +1,54 @@
+19:23:32.986 [main] INFO  testCases.TC002_LoginTest - Execution Start
+19:24:04.865 [main] INFO  testCases.TC001_AccountRegistrationTest - Testcase Execution is started
+19:24:05.121 [main] INFO  testCases.TC001_AccountRegistrationTest - click on my account link
+19:24:05.589 [main] INFO  testCases.TC001_AccountRegistrationTest - click on my register link
+19:24:05.592 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+19:24:12.309 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected result
+19:24:12.793 [main] INFO  testCases.TC001_AccountRegistrationTest - Exection finish
+19:24:15.137 [main] INFO  testCases.TC002_LoginTest - Execution Start
+19:31:10.631 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Testcase Execution is started
+19:31:10.805 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - click on my account link
+19:31:11.224 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - click on my register link
+19:31:11.228 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+19:31:18.047 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Testcase Execution is started
+19:31:18.370 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - click on my account link
+19:31:18.477 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - validating expected result
+19:31:19.448 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Exection finish
+19:31:19.832 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - click on my register link
+19:31:19.833 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+19:31:26.603 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - validating expected result
+19:31:27.101 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Exection finish
+19:37:00.615 [main] INFO  testCases.TC002_LoginTest - Execution Start
+19:39:29.453 [main] INFO  testCases.TC001_AccountRegistrationTest - Testcase Execution is started
+19:39:29.655 [main] INFO  testCases.TC001_AccountRegistrationTest - click on my account link
+19:39:30.130 [main] INFO  testCases.TC001_AccountRegistrationTest - click on my register link
+19:39:30.134 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+19:39:36.836 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected result
+19:39:37.495 [main] ERROR testCases.TC001_AccountRegistrationTest - test case failed
+19:39:37.495 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs
+19:39:39.815 [main] INFO  testCases.TC002_LoginTest - Execution Start
+19:46:09.137 [main] INFO  testCases.TC001_AccountRegistrationTest - Testcase Execution is started
+19:46:09.328 [main] INFO  testCases.TC001_AccountRegistrationTest - click on my account link
+19:46:09.643 [main] INFO  testCases.TC001_AccountRegistrationTest - click on my register link
+19:46:09.655 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+19:46:16.402 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected result
+19:46:16.941 [main] ERROR testCases.TC001_AccountRegistrationTest - test case failed
+19:46:16.942 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs
+19:46:19.513 [main] INFO  testCases.TC002_LoginTest - Execution Start
+19:55:01.054 [main] INFO  testCases.TC001_AccountRegistrationTest - Testcase Execution is started
+19:55:01.293 [main] INFO  testCases.TC001_AccountRegistrationTest - click on my account link
+19:55:01.667 [main] INFO  testCases.TC001_AccountRegistrationTest - click on my register link
+19:55:01.670 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+19:55:08.391 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected result
+19:55:08.913 [main] ERROR testCases.TC001_AccountRegistrationTest - test case failed
+19:55:08.913 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs
+19:55:11.452 [main] INFO  testCases.TC002_LoginTest - Execution Start
+20:31:02.918 [main] INFO  testCases.TC001_AccountRegistrationTest - Testcase Execution is started
+20:31:03.106 [main] INFO  testCases.TC001_AccountRegistrationTest - click on my account link
+20:31:03.424 [main] INFO  testCases.TC001_AccountRegistrationTest - click on my register link
+20:31:03.427 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+20:31:10.114 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected result
+20:31:10.785 [main] ERROR testCases.TC001_AccountRegistrationTest - test case failed
+20:31:10.785 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs
+20:33:46.113 [main] INFO  testCases.TC001_AccountRegistrationTest - Testcase Execution is started
+20:33:46.324 [main] INFO  testCases.TC001_AccountRegistrationTest - click on my account link
