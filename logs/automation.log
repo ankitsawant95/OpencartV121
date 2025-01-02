@@ -1,0 +1,14 @@
+01:19:03.990 [main] INFO  testCases.TC001_AccountRegistrationTest - Testcase Execution is started
+01:19:04.193 [main] INFO  testCases.TC001_AccountRegistrationTest - click on my account link
+01:19:04.609 [main] INFO  testCases.TC001_AccountRegistrationTest - click on my register link
+01:19:04.613 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+01:19:11.383 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected result
+01:19:13.146 [main] INFO  testCases.TC001_AccountRegistrationTest - Exection finish
+01:19:15.945 [main] INFO  testCases.TC002_LoginTest - Execution Start
+01:19:31.054 [main] INFO  testCases.TC001_AccountRegistrationTest - Testcase Execution is started
+01:19:31.281 [main] INFO  testCases.TC001_AccountRegistrationTest - click on my account link
+01:19:31.629 [main] INFO  testCases.TC001_AccountRegistrationTest - click on my register link
+01:19:31.632 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+01:19:38.404 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected result
+01:19:39.013 [main] INFO  testCases.TC001_AccountRegistrationTest - Exection finish
+01:19:42.034 [main] INFO  testCases.TC002_LoginTest - Execution Start
